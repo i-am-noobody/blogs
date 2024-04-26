@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input{
+    width: 20em;
+    border: 1px solid black;
+    outline: none;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+textarea{
+      width: 20em;
+    border: 1px solid black;
+    outline: none;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
